@@ -1,0 +1,96 @@
+{
+   "activate_deviation":0,
+   "prob_devi_upper":0.09,
+   "prob_devi_lower":0.07,
+   "ts_devi_upper":15,
+   "ts_devi_lower":5,
+   "devi_noise":0.5,
+
+   "kappa":8,
+   "nfr_num":2,
+   "nfr_states_num":4,
+   "obs_states_num":9,
+   "action_states_num":2,
+   "rewards_num":8,  
+   "num_scale_categories":8,
+   "scale_factors":[1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0],
+   "obs_states":[0,1,2,3,4,5,6,7,8,9,10,11],
+   "nfr_states":[
+   [1,1],
+   [1,0],
+   [0,1],
+   [0,0]
+   ],
+   "pom_criteria":[
+   [0.0,3.0],
+   [-3.0,0.0]
+   ],
+   "juggling":0,
+   "softer_approach":0,
+   "not_change_pom_if_not_poor":0,
+   "criteria_poor_high":[0.7,0.90],
+   
+   "ini_transition_model":[
+   [
+   [0.89,0.11],
+   [0.92,0.08],
+   [0.84,0.16],
+   [0.87,0.13],
+   [0.92,0.08],
+   [0.89,0.11],
+   [0.96,0.04],
+   [0.91,0.09]
+   ],
+   [
+   [0.85,0.15],
+   [0.88,0.12],
+   [0.73,0.27],
+   [0.76,0.24],
+   [0.98,0.02],
+   [0.96,0.04],
+   [0.99,0.01],
+   [0.97,0.03]
+   ]
+   ],
+
+   "ini_observation_model":[
+   [
+   [0.8,0.15,0.05],
+   [0.72,0.18,0.1],
+   [0.06,0.16,0.78],
+   [0.12,0.2,0.68]
+   ],
+   [
+   [0.78,0.16,0.06],
+   [0.68,0.2,0.12],
+   [0.05,0.15,0.8],
+   [0.1,0.18,0.72]
+   ]
+   ],
+   "initial_weights":[
+   [94,-20,-10,-50],
+   [89,-10,-20,-70]
+   ],
+   "initial_max_reward":95,
+   "initial_min_reward":-1,
+   "initial_min_action":0,
+   "rewards_mec":[
+        [0.1602,0.1602,0.1133,0.1094],
+        [0.1426,0.1426,0.0859,0.0859]
+    ],
+    "rewards_mr":[
+        [0.0898,0.0898,0.1367,0.1406],
+        [0.1074,0.1074,0.1641,0.1641]
+    ],
+    "obs_descriptions":[
+    	"REC LOWER X AND ANL LOWER R",
+    	"REC LOWER X AND ANL IN R_S",
+    	"REC LOWER X AND ANL GREATER S",
+    	"REC IN X_Y AND ANL LOWER R",
+    	"REC IN X_Y AND ANL IN R_S",
+    	"REC IN X_Y AND ANL GREATER S",
+    	"REC GREATER Y AND ANL LOWER R",
+    	"REC GREATER Y AND ANL IN R_S",
+    	"REC GREATER Y AND ANL GREATER S"
+    ]    
+}

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>despot-Debug@despotNDRDMRL4-eclipse</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.makeBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>org.eclipse.cdt.core.errorOutputParser</key>
+					<value>org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.append_environment</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.autoBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.arguments</key>
+					<value>-j4</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.command</key>
+					<value>/usr/bin/make</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.location</key>
+					<value>/home/luis/git/RDM/despotNDRDMRL4-eclipse</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.auto</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.clean</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.inc</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildArguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildLocation</key>
+					<value>/home/luis/git/RDM/despotNDRDMRL4-eclipse</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.cleanBuildTarget</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.contents</key>
+					<value>org.eclipse.cdt.make.core.activeConfigSettings</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableAutoBuild</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableCleanBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableFullBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enabledIncrementalBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.environment</key>
+					<value>VERBOSE=1|CMAKE_NO_VERBOSE=1|</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.fullBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.stopOnError</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
+					<value>false</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.ScannerConfigBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.make.core.makeNature</nature>
+		<nature>org.eclipse.cdt.make.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[Source directory]</name>
+			<type>2</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign</location>
+		</link>
+		<link>
+			<name>[Subprojects]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Subprojects]/despot</name>
+			<type>2</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/Source Files/main.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/examples/cpp_models/RDM_01RL/src/main.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_RDM_01RL/Source Files/rdm01RL.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/examples/cpp_models/RDM_01RL/src/rdm01RL.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] despot_pomdpx/Source Files/main.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/examples/pomdpx_models/src/main.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/aems.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/solver/aems.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/baseline_solver.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/solver/baseline_solver.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/belief.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/interface/belief.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/builtin_lower_bounds.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/builtin_lower_bounds.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/builtin_policy.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/builtin_policy.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/builtin_upper_bounds.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/builtin_upper_bounds.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/coord.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/coord.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/default_policy.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/interface/default_policy.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/despot.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/solver/despot.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/dirichlet.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/dirichlet.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/evaluator.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/evaluator.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/exec_tracker.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/exec_tracker.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/floor.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/floor.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/function.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/pomdpx/parser/function.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/gamma.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/gamma.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/globals.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/globals.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/logger.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/logger.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/logging.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/logging.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/lower_bound.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/interface/lower_bound.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/mdp.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/mdp.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/node.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/node.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/parser.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/pomdpx/parser/parser.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/particle_belief.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/particle_belief.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/planner.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/planner.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/plannerbase.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/plannerbase.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/pomcp.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/solver/pomcp.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/pomdp.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/interface/pomdp.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/pomdp_world.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/pomdp_world.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/pomdpx.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/pomdpx/pomdpx.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/random.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/random.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/random_streams.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/random_streams.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/seeds.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/seeds.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/solver.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/core/solver.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/tinystr.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/tinyxml/tinystr.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/tinyxml.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/tinyxml/tinyxml.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/tinyxmlerror.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/tinyxml/tinyxmlerror.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/tinyxmlparser.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/tinyxml/tinyxmlparser.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/upper_bound.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/interface/upper_bound.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/util.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/util/util.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/variable.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/pomdpx/parser/variable.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] despot/Source Files/world.cpp</name>
+			<type>1</type>
+			<location>/home/luis/git/RDM/despotNDRDMRL4-eclipse/despot-API_redesign/src/interface/world.cpp</location>
+		</link>
+	</linkedResources>
+</projectDescription>

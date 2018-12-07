@@ -1,0 +1,1 @@
+/usr/bin/c++    -msse2 -mfpmath=sse -std=c++0x -g   CMakeFiles/despot_pomdpx.dir/src/main.cpp.o  -o despot_pomdpx -rdynamic ../../libdespot.so -Wl,-rpath,/home/luis/git/RDM/despotNDRDMRL4-eclipse: 
